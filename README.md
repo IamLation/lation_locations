@@ -1,4 +1,4 @@
-# lation_locations
+# lation_locations (archived - no longer maintained)
 A simple resource designed to help you with creating entry & exit points for shells. Do you have shells you wish you could utilize more? Wanted to use some as a hidden stash spot? Hidden drug lab? Hidden shop location? With this resource you can spawn a shell wherever you wish and add an entry and exit point (via target) anywhere. If you use K4MB1's shells, included in this resource is every shell name & their offsets to make it even easier for you! If you don't, K4MB1 also offers a free starter pack you can [find here](https://forum.cfx.re/t/free-props-starter-shells-for-housing-scripts/4826922).
 
 ## Support, Scripts & More
